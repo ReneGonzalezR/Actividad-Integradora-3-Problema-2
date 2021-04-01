@@ -16,6 +16,5 @@ namespace Actividad_Integradora_3_Problema_2
         {
             InitializeComponent();
         }
-
     }
 }
